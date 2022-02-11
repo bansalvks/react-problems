@@ -25,7 +25,7 @@ In the console you will be able to see that there are infinite calls are going t
 
 ![Screenshot 2022-02-11 at 5.26.35 PM.png](doc-assets/Screenshot_2022-02-11_at_5.26.35_PM.png)
 
-> Your task is to fix these infinite calls. Also, make sure that `Refresh Users` and `Clear Users` buttons are working
+> Your task is to fix these infinite calls. Also, make sure that user list is loaded on the page loaded, `Refresh Users` and `Clear Users` buttons are working
 
 ## Assessment 2
 
