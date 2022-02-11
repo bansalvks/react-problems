@@ -33,7 +33,7 @@ In the below screenshot you can see 2 arrows. The top arrow is pointing to the s
 
 > Your task is to fix this button click and show the data of the particular user at the place where the bottom arrow is pointing.
 
-Bonus: the Info Panel should only show when there is data available to show. Like there is no selected user when at first load or when a user has clicked refresh.
+> Bonus: the Info Panel should only show when there is data available to show. Like there is no selected user when at first load or when a user has clicked refresh.
 
 >
 
