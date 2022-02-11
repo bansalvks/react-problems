@@ -3,7 +3,7 @@
 ## Steps to run the React Project
 
 1. Go to Desktop and open the Problem 1 Folder in VS Code
-2. Launch the VS code app then press `Ctrl+`` to open a terminal.
+2. Launch the VS code app then press **Ctrl+`** to open a terminal.
 3. Run `npm install`
 4. Run `npm start`
 5. The above command will open a new tab in the default browser
