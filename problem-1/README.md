@@ -1,5 +1,10 @@
 # Problem 1
 
+## Developer Environment Prerequisite
+
+1. NodeJs
+3. Chrome Browser
+
 ## Steps to run the React Project
 
 1. Go to Desktop and open the Problem 1 Folder in VS Code
